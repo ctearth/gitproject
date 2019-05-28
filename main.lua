@@ -1,3 +1,3 @@
 
-hello this is master dev_gitproject2
+hello this is local project
 
